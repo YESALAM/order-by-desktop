@@ -17,8 +17,8 @@ The default login username is `12345678901`, and the password is `12345`.
 
 ## Dependencies
 - **[JTidy](http://jtidy.sourceforge.net/)** *v8.0+*: used for the HTML syntax highlighting in the news management;
-- **[mysql-connector-j](https://github.com/mysql/mysql-connector-j)** *v5.1.6+*: used for the connection with the MySQL database;
-- **[SHEF](http://shef.sourceforge.net/)** *v0.5+*: used for the HTML syntax pane editor in the news management.
+- **[SHEF](http://shef.sourceforge.net/)** *v0.5+*: used for the HTML syntax pane editor in the news management;
+- **[order-by-desktop-connection](https://github.com/alessandrojean/order-by-desktop-connection)** *v75+*: used to connect with the database.
 
 ## License
 
